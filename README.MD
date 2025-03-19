@@ -56,7 +56,7 @@ Este projeto implementa um backend para gerenciar planos de operadoras de intern
 ### ⬇️ Clonando o Repositório
 
 
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/lucaspio1/backend1.git
 cd backend
 
 ### 📦 Instalando Dependências
