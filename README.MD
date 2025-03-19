@@ -131,13 +131,4 @@ Isso executará os testes unitários e de integração definidos na pasta `tests
 
 Para facilitar o teste dos endpoints, disponibilizamos uma collection do Postman. Importe o arquivo `template.postman_collection.json` no Postman.
 
-## 🤝 Contribuição
-
-Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, encontrou um bug ou quer adicionar uma nova funcionalidade, siga estes passos:
-
-1.  Faça um fork do repositório.
-2.  Crie uma branch com a sua feature (`git checkout -b feature/nova-funcionalidade`).
-3.  Faça o commit das suas alterações (`git commit -am 'Adiciona nova funcionalidade'`).
-4.  Faça o push para a branch (`git push origin feature/nova-funcionalidade`).
-5.  Crie um Pull Request.
 
